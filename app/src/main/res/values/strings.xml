@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">UnitConversionCalculator</string>
-    <string-array name="UnitsTypes">
+    <string-array name="Catogories">
         <item>Area</item>
         <item>Data Transfer Rate</item>
         <item>Digital Storage</item>
@@ -29,13 +29,18 @@
     </string-array>
 
     <string-array name="DataTransferRate">
-        <item>Square kilometer</item>
-        <item>Square meter</item>
-        <item>Square mile</item>
-        <item>Square yard</item>
-        <item>Square foot</item>
-        <item>Square inch</item>
-        <item>Hectare</item>
-        <item>Arce</item>
+        <item>Bit per second</item>
+        <item>Kilobit per second</item>
+        <item>Kilobyte per second</item>
+        <item>Kibibit per second</item>
+        <item>Megabit per second</item>
+        <item>Megabyte per second</item>
+        <item>Mebibit per second</item>
+        <item>Gigabit per second</item>
+        <item>Gigabyte per second</item>
+        <item>Gigibit per second</item>
+        <item>Terabit per second</item>
+        <item>Terabyte per second</item>
+        <item>Tebibit per second</item>
     </string-array>
 </resources>
