@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">UnitConversionCalculator</string>
+    <string-array name="UnitsTypes">
+        <item>Area</item>
+        <item>Data Transfer Rate</item>
+        <item>Digital Storage</item>
+        <item>Energy</item>
+        <item>Frequency</item>
+        <item>Fuel Economy</item>
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Plane Angle</item>
+        <item>Pressure</item>
+        <item>Speed</item>
+        <item>Temprature</item>
+        <item>Time</item>
+        <item>Volume</item>
+    </string-array>
+
+    <string-array name="Area">
+        <item>Square kilometer</item>
+        <item>Square meter</item>
+        <item>Square mile</item>
+        <item>Square yard</item>
+        <item>Square foot</item>
+        <item>Square inch</item>
+        <item>Hectare</item>
+        <item>Arce</item>
+    </string-array>
+
+    <string-array name="DataTransferRate">
+        <item>Square kilometer</item>
+        <item>Square meter</item>
+        <item>Square mile</item>
+        <item>Square yard</item>
+        <item>Square foot</item>
+        <item>Square inch</item>
+        <item>Hectare</item>
+        <item>Arce</item>
+    </string-array>
 </resources>

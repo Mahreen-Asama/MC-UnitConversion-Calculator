@@ -13,7 +13,24 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Name"
-        android:textSize="16sp"
+        android:textSize="60sp"
         tools:layout_editor_absoluteX="96dp"
         tools:layout_editor_absoluteY="195dp" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterButton
+        android:id="@+id/imageFilterButton"
+        android:layout_width="100dp"
+        android:layout_height="84dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="376dp" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/imageFilterView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="496dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
